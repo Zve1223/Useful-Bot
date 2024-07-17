@@ -1,0 +1,17 @@
+cv2
+pyzbar
+soundfile
+speech_recognition
+langdetect
+language_tool_python
+deep_translator
+gtts
+qrcode
+qrcode.exceptions
+pycbrf
+aiogram.dispatcher.filters.state
+aiogram
+aiogram.types
+aiogram.dispatcher
+aiogram.contrib.fsm_storage.memory
+aiogram.utils
